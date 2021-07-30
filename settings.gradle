@@ -1,0 +1,3 @@
+include ':verificationLibrary'
+include ':app'
+rootProject.name = "verification"
